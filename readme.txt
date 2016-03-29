@@ -10,6 +10,5 @@ Steps You need to follow...
 Only thats it ..
 
 Thanks a lot If anyone have any query they can contact us:
-//Developers 
+//Developer
 Rakesh Bitling : rakesh.bitling@gmail.com/7276165575  -- PHP DEVELOPER [Role in Developing]
-Prajwal Nahire : prajwal.nahire@gmail.com/9921050525  -- PHP DEVELOPER [Role in Documentation]
